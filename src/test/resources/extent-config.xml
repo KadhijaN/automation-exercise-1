@@ -1,0 +1,10 @@
+<extentreports>
+    <configuration>
+        <theme>DARK</theme>
+        <documentTitle>Automation Execution Report</documentTitle>
+        <reportName>Web Form Automation</reportName>
+        <encoding>utf-8</encoding>
+        <timelineEnabled>true</timelineEnabled>
+        <timestampFormat>MMM dd, yyyy HH:mm:ss</timestampFormat>
+    </configuration>
+</extentreports>
