@@ -1,5 +1,9 @@
 Feature: Web Form Testing
 
+ # This feature file is to test the functionality of filling and submitting a web form.
+ # Language: Gherkin
+ # Framework: Cucumber
+
   Scenario: Fill out and submit the form
     Given I open the Selenium web form page
     When I fill out the text input field
